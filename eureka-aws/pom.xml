@@ -18,8 +18,6 @@
         <docker.image.prefix>aws</docker.image.prefix>
     </properties>
 
-
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
